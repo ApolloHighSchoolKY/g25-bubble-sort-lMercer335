@@ -5,8 +5,8 @@ public class BubbleSort
 	{
 		int[] myNums = {12, 15, 0, 44, 13, 1, 2};
 		int passes;
-		int comparisons;
-		int tempNum;
+		int comparisons;;
+		int tempNum
 
 		//Loop once for each pass, where passes is one less than the number of items.
 			//Loop once for each comparison, where comparisons are one less than the number of unsorted.
